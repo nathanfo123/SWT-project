@@ -21,11 +21,6 @@ KSU SWE 3643 Software Testing and Quality Assurance Semester Project: Web-Based 
 
 
 
-
-
-
-
-
 Table of Contents
 KSU SWE 3643 Software Testing and Quality Assurance Semester Project: Web-Based Calculator	1
 Team members	3
@@ -104,11 +99,13 @@ To execute the Playwright end-to-end tests, follow these steps:
 Command : npm install playwright
  
 
+![image](https://github.com/user-attachments/assets/3bc60ec9-295f-4868-9d2b-3bfb7f46b315)
 
 •	Run the end-to-end tests: After installing Playwright, execute the tests:
 Command : npm run test:e2e
  
 
+![image](https://github.com/user-attachments/assets/2b9964a9-3d9b-4811-b041-6a5897190fa9)
 
 
 
@@ -123,12 +120,14 @@ This will serve the frontend at http://localhost:8080
 
 4-	 Connecting to the Running Web Application:
 After the Spring Boot application is running, open a browser and navigate to http://localhost:8080 (or the appropriate port number) to access the web application.
-  
+  ![image](https://github.com/user-attachments/assets/29c240f6-18f4-4db8-9552-3eec1aeed906)
+
 
 
 Reviewing unit test coverage: 
 
  
+![image](https://github.com/user-attachments/assets/d39e189c-c414-46c9-bfbf-36c8e001ab21)
 
 
 
